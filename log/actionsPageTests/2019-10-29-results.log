@@ -1,0 +1,21 @@
+[ActionsTest.js]: 2019-10-29 00:32:24 info: TEST STARTING -----------------------------------------------------------------------------------------------
+[ActionsTest.js]: 2019-10-29 00:32:37 info: adding new client operation starting 
+[ActionsTest.js]: 2019-10-29 00:32:37 info: inserting the details that you enterd  to the all input's 
+[ActionsTest.js]: 2019-10-29 00:32:38 info: Add button clciked
+[ActionsTest.js]: 2019-10-29 00:32:45 info: Searching for newfirst newlast by fullname
+[ActionsTest.js]: 2019-10-29 00:32:46 info: 1 Results found and all the details of all the results saved in array
+[ActionsTest.js]: 2019-10-29 00:32:46 info: The search for newfirst newlast done and all the resuls that we got match 
+[ActionsTest.js]: 2019-10-29 00:32:46 info: All the 1 results matched to the search 
+[ActionsTest.js]: 2019-10-29 00:32:47 info: The searchAndValidateClient method return true
+[ActionsTest.js]: 2019-10-29 00:32:47 info: newfirst newlast added successfuly
+[ActionsTest.js]: 2019-10-29 00:32:47 info: END OF TEST   -----------------------------------------------------------------------------------------------
+[ActionsTest.js]: 2019-10-29 00:32:47 info: TEST STARTING -----------------------------------------------------------------------------------------------
+[ActionsTest.js]: 2019-10-29 00:32:48 info: Send shaw henson to update client input in action page 
+[ActionsTest.js]: 2019-10-29 00:32:52 info: Searching for shaw henson by fullname
+[ActionsTest.js]: 2019-10-29 00:32:54 info: 1 Results found and all the details of all the results saved in array
+[ActionsTest.js]: 2019-10-29 00:32:54 info: The search for shaw henson done and all the resuls that we got match 
+[ActionsTest.js]: 2019-10-29 00:32:54 info: All the 1 results matched to the search 
+[ActionsTest.js]: 2019-10-29 00:32:54 info: The searchAndValidateClient method return true
+[ActionsTest.js]: 2019-10-29 00:32:54 debug: somtheing wrong its not update yet
+[ActionsTest.js]: 2019-10-29 00:32:54 info: END OF TEST   -----------------------------------------------------------------------------------------------
+[ActionsTest.js]: 2019-10-29 00:32:54 info: End Of Actions Page Test ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||

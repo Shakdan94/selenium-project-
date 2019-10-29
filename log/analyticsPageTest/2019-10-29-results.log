@@ -1,0 +1,22 @@
+ [analyticsTest.js]: 2019-10-29 01:05:54 info: TEST STARTING -----------------------------------------------------------------------------------------------
+[analyticsTest.js]: 2019-10-29 01:06:10 info: Getting the Hottest Country value 
+[analyticsTest.js]: 2019-10-29 01:06:10 info: The value of Hottest Country : France
+[analyticsTest.js]: 2019-10-29 01:06:11 info:  the position of france in the graph is 7
+[analyticsTest.js]: 2019-10-29 01:06:11 info:  the position of the highest column in the graph is 7
+[analyticsTest.js]: 2019-10-29 01:06:11 info: The Hottest Country  France : and yest it got the heigh cloumn in the graph 
+[analyticsTest.js]: 2019-10-29 01:06:11 info: END OF TEST   -----------------------------------------------------------------------------------------------
+[analyticsTest.js]: 2019-10-29 01:06:11 info: TEST STARTING -----------------------------------------------------------------------------------------------
+[analyticsTest.js]: 2019-10-29 01:06:14 info: Getting the Outstanding Clients value 
+[analyticsTest.js]: 2019-10-29 01:06:14 info: The value of Outstanding Clients : 686
+[analyticsTest.js]: 2019-10-29 01:06:18 info: Searching for no by sold
+[analyticsTest.js]: 2019-10-29 01:13:17 info: 686 Results found and all the details of all the results saved in array
+[analyticsTest.js]: 2019-10-29 01:13:17 info: The search for no done and all the resuls that we got match 
+[analyticsTest.js]: 2019-10-29 01:13:17 info: All the 686 results matched to the search 
+[analyticsTest.js]: 2019-10-29 01:13:26 info: The searchAndValidateClient method return true
+[analyticsTest.js]: 2019-10-29 01:13:26 info: The numbers match 
+[analyticsTest.js]: 2019-10-29 01:13:26 info: END OF TEST   -----------------------------------------------------------------------------------------------
+[analyticsTest.js]: 2019-10-29 01:13:26 info: TEST STARTING -----------------------------------------------------------------------------------------------
+[analyticsTest.js]: 2019-10-29 01:13:30 info:  the colour changed :) 
+[analyticsTest.js]: 2019-10-29 01:13:30 info: END OF TEST   -----------------------------------------------------------------------------------------------
+[analyticsTest.js]: 2019-10-29 01:13:30 info: End Of Analytics Page Test ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+

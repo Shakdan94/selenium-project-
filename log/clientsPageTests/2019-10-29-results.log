@@ -1,0 +1,127 @@
+[ClientsTest.js]: 2019-10-29 00:02:27 info: TEST STARTING -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:02:40 info: Searching for Lourdes Grant by fullname
+[ClientsTest.js]: 2019-10-29 00:02:41 info: 1 Results found and all the details of all the results saved in array
+[ClientsTest.js]: 2019-10-29 00:02:41 info: The search for Lourdes Grant done and all the resuls that we got match 
+[ClientsTest.js]: 2019-10-29 00:02:41 info: All the 1 results matched to the search 
+[ClientsTest.js]: 2019-10-29 00:02:41 info: The searchAndValidateClient method return true
+[ClientsTest.js]: 2019-10-29 00:02:41 info: checkTheSearch returns true 
+[ClientsTest.js]: 2019-10-29 00:02:41 info: END OF TEST   -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:02:41 info: TEST STARTING -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:02:43 info: Searching for malaysia by country
+[ClientsTest.js]: 2019-10-29 00:02:59 info: 18 Results found and all the details of all the results saved in array
+[ClientsTest.js]: 2019-10-29 00:02:59 info: The search for malaysia done and all the resuls that we got match 
+[ClientsTest.js]: 2019-10-29 00:02:59 info: All the 18 results matched to the search 
+[ClientsTest.js]: 2019-10-29 00:03:00 info: The searchAndValidateClient method return true
+[ClientsTest.js]: 2019-10-29 00:03:00 info: checkTheSearch returns true 
+[ClientsTest.js]: 2019-10-29 00:03:00 info: END OF TEST   -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:03:00 info: TEST STARTING -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:03:01 info: Searching for Leila Howe by owner
+[ClientsTest.js]: 2019-10-29 00:03:51 info: 74 Results found and all the details of all the results saved in array
+[ClientsTest.js]: 2019-10-29 00:03:51 info: The search for Leila Howe done and all the resuls that we got match 
+[ClientsTest.js]: 2019-10-29 00:03:51 info: All the 74 results matched to the search 
+[ClientsTest.js]: 2019-10-29 00:03:52 info: The searchAndValidateClient method return true
+[ClientsTest.js]: 2019-10-29 00:03:52 info: checkTheSearch returns true 
+[ClientsTest.js]: 2019-10-29 00:03:52 info: END OF TEST   -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:03:52 info: TEST STARTING -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:03:53 info: Searching for yes by sold
+[ClientsTest.js]: 2019-10-29 00:08:00 info: 411 Results found and all the details of all the results saved in array
+[ClientsTest.js]: 2019-10-29 00:08:00 info: The search for yes done and all the resuls that we got match 
+[ClientsTest.js]: 2019-10-29 00:08:00 info: All the 411 results matched to the search 
+[ClientsTest.js]: 2019-10-29 00:08:04 info: The searchAndValidateClient method return true
+[ClientsTest.js]: 2019-10-29 00:08:04 info: checkTheSearch returns true 
+[ClientsTest.js]: 2019-10-29 00:08:04 info: END OF TEST   -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:08:04 info: TEST STARTING -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:08:05 info: Searching for a by email type
+[ClientsTest.js]: 2019-10-29 00:08:45 info: 62 Results found and all the details of all the results saved in array
+[ClientsTest.js]: 2019-10-29 00:08:45 info: The search for a done and all the resuls that we got match 
+[ClientsTest.js]: 2019-10-29 00:08:45 info: All the 62 results matched to the search 
+[ClientsTest.js]: 2019-10-29 00:08:45 info: The searchAndValidateClient method return true
+[ClientsTest.js]: 2019-10-29 00:08:45 info: checkTheSearch returns true 
+[ClientsTest.js]: 2019-10-29 00:08:45 info: END OF TEST   -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:08:45 info: TEST STARTING -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:08:46 info: Searching for  cohen by lastname
+[ClientsTest.js]: 2019-10-29 00:09:02 info: 19 Results found and all the details of all the results saved in array
+[ClientsTest.js]: 2019-10-29 00:09:02 info: There is 19 results  
+[ClientsTest.js]: 2019-10-29 00:09:02 debug: And there is  1 wrong results for what we were searching for
+[ClientsTest.js]: 2019-10-29 00:09:02 debug: you can see the unmatching results in the terminal in table and below in objct
+[ClientsTest.js]: 2019-10-29 00:09:02 debug: [{"First name":"Bubu","Last name":"Cohenista","Country":"Israel","Email":"523@hotmail.com","Owner":"Aywa","Sold":"NO","Contact Date":"24/10/2019","Email-Type":"-","Page number":"1","client number":8}]
+[ClientsTest.js]: 2019-10-29 00:09:02 info: there is 1 results not matched you search
+[ClientsTest.js]: 2019-10-29 00:09:02 info: The searchAndValidateClient method return false
+[ClientsTest.js]: 2019-10-29 00:09:02 info: checkTheSearch returns false 
+[ClientsTest.js]: 2019-10-29 00:09:02 info: END OF TEST -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:09:02 info: TEST STARTING -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:09:03 info: Searching for cohen  by firstname
+[ClientsTest.js]: 2019-10-29 00:09:07 info: 4 Results found and all the details of all the results saved in array
+[ClientsTest.js]: 2019-10-29 00:09:07 info: There is 4 results  
+[ClientsTest.js]: 2019-10-29 00:09:07 debug: And there is  1 wrong results for what we were searching for
+[ClientsTest.js]: 2019-10-29 00:09:07 debug: you can see the unmatching results in the terminal in table and below in objct
+[ClientsTest.js]: 2019-10-29 00:09:07 debug: [{"First name":"Marcohen","Last name":"Lololesh","Country":"France","Email":"aywakefa@751","Owner":"Lelia Howe","Sold":"NO","Contact Date":"26/10/2019","Email-Type":"-","Page number":"1","client number":3}]
+[ClientsTest.js]: 2019-10-29 00:09:07 info: there is 1 results not matched you search
+[ClientsTest.js]: 2019-10-29 00:09:07 info: The searchAndValidateClient method return false
+[ClientsTest.js]: 2019-10-29 00:09:07 info: checkTheSearch returns false 
+[ClientsTest.js]: 2019-10-29 00:09:07 info: END OF TEST -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:09:07 info: TEST STARTING -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:09:08 info: Searching for eldad by firstnameOrlastname
+[ClientsTest.js]: 2019-10-29 00:09:12 info: 4 Results found and all the details of all the results saved in array
+[ClientsTest.js]: 2019-10-29 00:09:12 info: There is 4 results  
+[ClientsTest.js]: 2019-10-29 00:09:12 debug: And there is  2 wrong results for what we were searching for
+[ClientsTest.js]: 2019-10-29 00:09:12 debug: you can see the unmatching results in the terminal in table and below in objct
+[ClientsTest.js]: 2019-10-29 00:09:12 debug: [{"First name":"Eldadar","Last name":"Mora","Country":"France","Email":"slk@flfknw.154","Owner":"Bartom Ramierz","Sold":"NO","Contact Date":"26/10/2019","Email-Type":"-","Page number":"1","client number":3},{"First name":"Muka","Last name":"Eldadtion","Country":"France","Email":"slk@flfknw.154","Owner":"Bartom Ramierz","Sold":"NO","Contact Date":"26/10/2019","Email-Type":"-","Page number":"1","client number":4}]
+[ClientsTest.js]: 2019-10-29 00:09:12 info: there is 2 results not matched you search
+[ClientsTest.js]: 2019-10-29 00:09:12 info: The searchAndValidateClient method return false
+[ClientsTest.js]: 2019-10-29 00:09:12 info: checkTheSearch returns false 
+[ClientsTest.js]: 2019-10-29 00:09:12 info: END OF TEST -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:09:12 info: TEST STARTING -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:09:14 info: Searching for hellow world :)  by fullname
+[ClientsTest.js]: 2019-10-29 00:09:15 info: Your search for -  'hellow world :) ' by 'name' with 'fullname' - did not match any documents.
+[ClientsTest.js]: 2019-10-29 00:09:15 info: The searchAndValidateClient method return false
+[ClientsTest.js]: 2019-10-29 00:09:15 info: checkTheSearch returns false 
+[ClientsTest.js]: 2019-10-29 00:09:15 info: END OF TEST -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:09:15 info: TEST STARTING -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:09:16 info: Searching for kiryat shmona  by country
+[ClientsTest.js]: 2019-10-29 00:09:17 info: Your search for -  'kiryat shmona ' by 'country' - did not match any documents.
+[ClientsTest.js]: 2019-10-29 00:09:17 info: The searchAndValidateClient method return false
+[ClientsTest.js]: 2019-10-29 00:09:17 info: checkTheSearch returns false 
+[ClientsTest.js]: 2019-10-29 00:09:17 info: END OF TEST -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:09:17 info: TEST STARTING -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:09:18 info: Searching for malaegegrysia by email
+[ClientsTest.js]: 2019-10-29 00:09:18 info: Your search for -  'malaegegrysia' by 'email' - did not match any documents.
+[ClientsTest.js]: 2019-10-29 00:09:18 info: The searchAndValidateClient method return false
+[ClientsTest.js]: 2019-10-29 00:09:18 info: checkTheSearch returns false 
+[ClientsTest.js]: 2019-10-29 00:09:18 info: END OF TEST -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:09:18 info: TEST STARTING -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:09:20 info: Searching for shaboula by owner
+[ClientsTest.js]: 2019-10-29 00:09:20 info: Your search for -  'shaboula' by 'owner' - did not match any documents.
+[ClientsTest.js]: 2019-10-29 00:09:20 info: The searchAndValidateClient method return false
+[ClientsTest.js]: 2019-10-29 00:09:20 info: checkTheSearch returns false 
+[ClientsTest.js]: 2019-10-29 00:09:20 info: END OF TEST -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:09:20 info: TEST STARTING -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:09:21 info: Searching for maybe by sold
+[ClientsTest.js]: 2019-10-29 00:09:22 info: Your search for -  'maybe' by 'sold' - did not match any documents.
+[ClientsTest.js]: 2019-10-29 00:09:22 info: The searchAndValidateClient method return false
+[ClientsTest.js]: 2019-10-29 00:09:22 info: checkTheSearch returns false 
+[ClientsTest.js]: 2019-10-29 00:09:22 info: END OF TEST -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:09:22 info: TEST STARTING -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:09:24 info: Searching for ffjhr by email type
+[ClientsTest.js]: 2019-10-29 00:09:24 info: Your search for -  'ffjhr' by 'email type' - did not match any documents.
+[ClientsTest.js]: 2019-10-29 00:09:24 info: The searchAndValidateClient method return false
+[ClientsTest.js]: 2019-10-29 00:09:24 info: checkTheSearch returns false 
+[ClientsTest.js]: 2019-10-29 00:09:24 info: END OF TEST -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:09:24 info: TEST STARTING -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:09:25 info: Searching for Ewing Alexander by fullname
+[ClientsTest.js]: 2019-10-29 00:09:26 info: Your search for -  'Ewing Alexander' by 'name' with 'fullname' - did not match any documents.
+[ClientsTest.js]: 2019-10-29 00:09:26 info: The searchAndValidateClient method return false
+[ClientsTest.js]: 2019-10-29 00:09:26 error:  Ewing Alexander not founded you need to search really exist client  
+[ClientsTest.js]: 2019-10-29 00:09:26 info: END OF TEST   -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:09:26 info: TEST STARTING -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:09:27 info: Searching for Cecile Ewing by fullname
+[ClientsTest.js]: 2019-10-29 00:09:29 info: 1 Results found and all the details of all the results saved in array
+[ClientsTest.js]: 2019-10-29 00:09:29 info: The search for Cecile Ewing done and all the resuls that we got match 
+[ClientsTest.js]: 2019-10-29 00:09:29 info: All the 1 results matched to the search 
+[ClientsTest.js]: 2019-10-29 00:09:29 info: The searchAndValidateClient method return true
+[ClientsTest.js]: 2019-10-29 00:09:31 info: Searching for Cecile Ewing by fullname
+[ClientsTest.js]: 2019-10-29 00:09:31 info: Your search for -  'Cecile Ewing' by 'name' with 'fullname' - did not match any documents.
+[ClientsTest.js]: 2019-10-29 00:09:31 info: The searchAndValidateClient method return false
+[ClientsTest.js]: 2019-10-29 00:09:31 info: Cecile Ewing  is deleted from the clients list :) 
+[ClientsTest.js]: 2019-10-29 00:09:31 info: END OF TEST   -----------------------------------------------------------------------------------------------
+[ClientsTest.js]: 2019-10-29 00:09:31 info: End Of Clients Page Test ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
